@@ -1,5 +1,4 @@
-## Live Demo
+## Opsi 1: Akses Online
 
-Website portfolio ini dapat diakses melalui GitHub Pages:
-
-🔗 [Buka Website](https://carolinecarrenn.github.io/CV/)
+Buka langsung di GitHub Pages:  
+https://carolinecarrenn.github.io/CV/
